@@ -4,6 +4,7 @@ Custom PCBs for the MyFocuserPro2 project.
 
 There are custom PCBs using an Arduino Nano and a driver with the corresponding [MyFocuerPro2 firmare](https://sourceforge.net/projects/arduinoascomfocuserpro2diy/).
 
+DISCLAIMER: I designed and ordered the PCBs just last night, so I haven’t had the opportunity to test them yet. I’ll confirm their functionality as soon as they arrive. Your reviews and pull requests are welcome. As with any DIY project, please proceed at your own risk.
 
 ## ULN2003
 
